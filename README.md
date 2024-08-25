@@ -17,6 +17,8 @@ https://huggingface.co/datasets/Abirate/english_quotes
 
 https://www.spyfu.com/keyword/overview?vwot=aa&query=quotes%20image
 
+how to make a quote image
+
 ## newsletteer
 
 https://arxiv.org/pdf/2202.13145
