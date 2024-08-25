@@ -17,6 +17,8 @@ https://huggingface.co/datasets/Abirate/english_quotes
 
 https://www.spyfu.com/keyword/overview?vwot=aa&query=quotes%20image
 
+good night images with quotes
+
 how to make a quote image
 
 ## newsletteer
