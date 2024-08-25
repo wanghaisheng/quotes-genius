@@ -16,3 +16,7 @@ https://huggingface.co/datasets/Abirate/english_quotes
 按人格 按星座  按属相 按出生年月  按时间 中午 睡觉
 
 https://www.spyfu.com/keyword/overview?vwot=aa&query=quotes%20image
+
+## newsletteer
+
+https://arxiv.org/pdf/2202.13145
